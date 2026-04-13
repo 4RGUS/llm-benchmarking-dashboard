@@ -32,7 +32,7 @@ A local benchmarking tool that runs the same prompt across multiple AI models an
 1. Clone the repository
 
 ```
-git clone https://github.com/yourusername/model-inference.git
+git clone https://github.com/4RGUS/llm-benchmarking-dashboard.git
 cd model-inference
 ```
 
